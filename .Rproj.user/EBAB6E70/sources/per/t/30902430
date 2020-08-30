@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584118398749.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "405961390",
+    "id" : "30902430",
+    "lastKnownWriteTime" : 1584158984,
+    "last_content_update" : 1584158984355,
+    "path" : "C:/UTD/Semester 2 - S20/Data Viz/Assignment/Kmeans/kmeans Ex7.R",
+    "project_path" : "kmeans Ex7.R",
+    "properties" : {
+        "cursorPosition" : "103,0",
+        "scrollLine" : "92",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
